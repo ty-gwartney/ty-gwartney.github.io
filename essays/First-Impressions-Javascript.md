@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: First Impressions of Javascript
 date: 2018-08-31
 labels:
