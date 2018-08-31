@@ -71,7 +71,9 @@
   "work": [
     {
       "company": "Aloha Outlet",
-      "position": "Shipping clerk",
+      "location": "Honolulu, HI",
+      "description": "Online Retailer",
+      "position": "Shipping Clerk",
       "website": "http://www.alohaoutlet.com",
       "startDate": "2011-07-01",
       "endDate": "Present",
