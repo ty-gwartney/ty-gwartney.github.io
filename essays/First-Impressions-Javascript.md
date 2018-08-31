@@ -1,4 +1,4 @@
-—--
+---
 layout: essay
 type: essay
 published: false
@@ -7,7 +7,7 @@ date: 2018-08-31
 labels:
  - Javascript
  - Education
-—--
+---
 
 I made a conscious decision last year not to take sides in any tech debates over programming languages, operating systems, IDE's and such, partly because I'm something of an outsider to the field without a very strong frame of reference, but also because people with excessively strong opinions tire me, and there seems to be no shortage of such people in the technology world. Depending on who you ask, the same quality of Java can be positively said to be "flexible" while negatively said to be "slippery", or with C, "structured" versus "rigid", and C++, "powerful" as opposed to "complicated", and in different ways, they are all understandable. Surely a similar pair of adjectives can describe Javascript.
 
