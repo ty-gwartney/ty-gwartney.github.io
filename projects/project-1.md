@@ -1,44 +1,22 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-# All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+image: images/zhan-zhang-785178-unsplash.jpg
+title: Space Invaders clone
+permalink:
+date: 2018-08-30
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+ - Java
+ - Video Games
+summary: My final project for my ICS 111 class was a group project. We recreated the game Space Invaders.
 ---
+<img class="invader" src="invader.jpg">
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+The final portion of my ICS 111 class was a group coding project, and my group opted to recreate the classic arcade game Space Invaders. There were only three of us, and we each worked on different aspects of the game, such as player controls, event handling, enemy movement, artwork, etc. While we were only able to successfully recreate Level 1 of the game, it took considerable work and presented many difficulties.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Along with my own project coding, I organized our group's many individual code files into one coherent group of class files, which we were all to edit individually, usually until one or two minor achievements had been made. Afterwards, my teammates would send their newly edited code back to me, and I would re-standardize all of it, editing where necessary, and send it back for further edits. This process happened probably 10-15 times before a working game was ready. I developed this little management system out of necessity when I noticed that our individual project files were not fitting together in any realistic, functional way, and we were all basically working on completely different programs.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+It was a great experience, very challenging and confusing, but rewarding to see the final project in action.
 
 
 
