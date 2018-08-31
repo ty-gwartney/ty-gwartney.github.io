@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: First Impressions of Javascript
+title: The Dual Nature of Programming Languages
 date: 2018-08-31
 labels:
  - Javascript
