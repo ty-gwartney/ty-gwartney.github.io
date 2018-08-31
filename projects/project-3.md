@@ -1,61 +1,18 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/francisco-moreno-453114-unsplash.jpg
+title: Learning Piano without a Teacher
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-08-30
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Music
+  - Education
+summary: I've been teaching myself piano since 2015.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+I took piano lessons when I was younger, but I never made much progress and did not advance to any real level of proficiency, something which I've regretted since then. In 2015, I decided to purchase a MIDI-controller piano keyboard, and use piano emulators to re-learn piano. I barely remembered how to read music, which I had also learned playing in my elementary school and middle school orchestras, so I wasn't a total beginner when I started, and was able to pick up close to where I left off quickly.
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Since sheet music is widely available online, at all levels of difficulty, I'm able to search for music that fits my current skill level quite easily, and I also have some songbooks that I practice from frequently. This entirely an individual effort.
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Learning to play piano has taught me to learn concisely in a step-by-step, note-by-note way, and given me some self-confidence for learning new things in general. I've also developed my sense of self-discipline, forcing myself to practice even when I don't feel up for it. I've also learned to take care with the "boring" aspects of learning something new, such as basic scales and such, things that have no immediate measurable value but are essential to building speed and proper technique. This is an ongoing project of mine, and I do not plan to stop; it is more or less a permanent part of my life for now. I have no interest in becoming a professional, I just enjoy having a routine hobby I can always return to.
