@@ -10,6 +10,7 @@ labels:
   - Education
 summary: I've been teaching myself piano since 2015.
 ---
+<img class="ui medium right floated rounded image" src="/images/james-baldwin-559865-unsplash.jpg">
 
 I took piano lessons when I was younger, but I never made much progress and did not advance to any real level of proficiency, something which I've regretted since then. In 2015, I decided to purchase a MIDI-controller piano keyboard, and use piano emulators to re-learn piano by myself, without a teacher. I barely remembered how to read music, which I had also learned playing in my elementary school and middle school orchestras, so I wasn't a total beginner when I started, and was able to pick up close to where I left off quickly.
 
