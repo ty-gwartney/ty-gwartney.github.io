@@ -11,6 +11,7 @@ labels:
  - Business
 summary: For my ICS 212 class, I created a customer-records editing program with a text interface and external storage capability.
 ---
+<img class="banking" src="/images/rawpixel-602154-unsplash.jpg">
 
 The final project for ICS 212 was a bank records editing program that combined several previous assignments into a single program. Each of the earlier assignments was an exercise in learning program structure and basic memory management in C. There were in fact two versions of the project, one in C and another in C++ that took use of the Object-Oriented features of the language, similar to Java, but both made use of 75-85% of the same core code.
 
