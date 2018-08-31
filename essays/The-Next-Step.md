@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: What I Want from Software Engineering
+title: The Next Step
 date: 2018-08-30
 labels:
  - Software Engineering
