@@ -74,7 +74,9 @@
       "position": "Shipping clerk",
       "website": "http://www.alohaoutlet.com",
       "startDate:" "2011-07-01",
-      "endDate": "Present"
+      "endDate": "Present",
+      "summary:": [
+      ]
     }
   ],  
   "references": [
