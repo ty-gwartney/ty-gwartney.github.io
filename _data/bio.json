@@ -46,13 +46,21 @@
   ],
   "skills": [
     {
-      "name": "Languages",
+      "name": "Languages and Frameworks:",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
+      ]
+    },
+    {
+      "name": "Toolsets/OS:",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Unix",
       ]
     },
   ],
