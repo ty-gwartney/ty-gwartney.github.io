@@ -1,7 +1,7 @@
 —--
 layout: essay
 type: essay
-published: false
+published: true
 title: What I Want from Software Engineering
 date: 2018-08-30
 labels:
