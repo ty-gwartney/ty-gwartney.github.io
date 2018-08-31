@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/zhan-zhang-785178-unsplash.jpg
-title: Space Invaders clone
+title: Space Invaders Clone
 permalink:
 date: 2018-08-30
 labels:
