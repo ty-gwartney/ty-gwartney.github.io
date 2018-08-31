@@ -1,25 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-# All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+image: images/beatriz-perez-moya-111685-unsplash.jpg
+title: Bank Records editor
+permalink:
+date: 2018-08-30
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+ - C
+ - C++
+ - Business
+summary: During my ICS 212 class, many assignments were actually small portions of a larger assignment, which ended up being the final project for the class, a customer records editing program for a bank.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="bank" src="bank.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The final project for ICS 212 was a bank records editing program that combined several previous assignments into a single program. Each of the earlier assignments was an exercise in learning program structure and basic memory management in C. There were in fact two versions of the project, one in C and another in C++ that took use of the Object-Oriented features of the language, similar to Java, but both made use of 75-85% of the same core code.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+It was difficult to integrate different files into a single project, so a bit of strategy was required to overcome this challenge. Portioning off entire sections of code was necessary to focus on individual components, and maintaining functionality throughout was the highest priority, that is, ensuring changes in one component did not alter the behavior of another in unanticipated ways. This required working on the program in something of a logical manner: a functioning menu was needed before any selections could be made, then adding records must be the next section to work, since the other sections were deleting records, printing records, searching records, and such.
