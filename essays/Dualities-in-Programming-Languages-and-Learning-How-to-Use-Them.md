@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: The Dual Nature of Programming Languages
+title: Dualities in Programming Languages and Learning How to Use Them
 date: 2018-08-31
 labels:
  - Javascript
