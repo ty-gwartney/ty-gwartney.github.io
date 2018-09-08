@@ -10,6 +10,8 @@ labels:
  - Video Games
 summary: My final project for my ICS 111 class was a group project. We recreated the game Space Invaders.
 ---
+<img src="/images/si1.png">
+<img src="/images/si2.png">
 
 The final portion of my ICS 111 class was a group coding project, and my group opted to recreate the classic arcade game Space Invaders. There were only three of us, and we each worked on different aspects of the game, such as player controls, event handling, enemy movement, artwork, etc. While we were only able to successfully recreate Level 1 of the game, it took considerable work and presented many difficulties.
 
