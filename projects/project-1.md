@@ -17,7 +17,7 @@ The final portion of my ICS 111 class was a group coding project, and my group o
 
 Along with my own project coding (enemy movement, removing the enemies once they've been shot), I organized our group's many individual code files into one coherent group of class files, which we were all to edit individually, usually until one or two minor achievements had been made. Afterwards, my teammates would send their newly edited code back to me, and I would re-standardize all of it, editing where necessary, and send it back for further edits. This process happened probably 10-15 times before a working game was ready. I developed this little management system out of necessity when I noticed that our individual project files were not fitting together in any realistic, functional way, and we were all basically working on completely different programs.
 
-It was a great experience, very challenging and confusing, but rewarding to see the final project in action. The things I  learned from this project were how to read and make sense of the code written by others, how to manage a small group to a common end, and the amount of work that goes into even simple video games.
+It was a great experience, very challenging and confusing, but rewarding to see the final project in action. The things I  learned from this project were how to read and make sense of the code written by others, how to manage a small group to a common end, and the amount of work that goes into even simple video games. These are all things I'm grateful to have learned, and will surely come in handy in the future.
 
 
 
