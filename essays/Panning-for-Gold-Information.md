@@ -1,4 +1,4 @@
-—--
+---
 layout: essay
 type: essay
 published: true
@@ -8,7 +8,7 @@ labels:
  - Software Engineering
  - Questions
  - Open Source
-—--
+---
 
 Many people respond positively to the idea of smashing a computer. There are countless cartoons and images online relating the experience; try a simple search of “computer trouble”, “computer help”, or anything similar. In fact, I just discovered there is already a technical term for the phenomenon: computer rage: https://en.wikipedia.org/wiki/Computer_rage. How can that be? They are still rather expensive, so common sense seems to imply people would shudder at the idea of destroying one, like wrecking a car. Instead, it’s wickedly appealing. Why?
 
