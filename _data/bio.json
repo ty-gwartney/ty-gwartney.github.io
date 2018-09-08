@@ -63,6 +63,7 @@
         "Unix",
         "vi",
         "Windows",
+        "Visual Studio 2010",
       ]
     },
   ],
@@ -79,7 +80,7 @@
     },
     {
       "institution": "Intercultural Institute of Japan, Tokyo, Japan",
-      "area": "Japanese Language",
+      "area": "",
       "startDate": "2009",
       "endDate": "2011",
       "gpa": "",
