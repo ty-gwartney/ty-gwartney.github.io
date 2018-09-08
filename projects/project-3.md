@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/francisco-moreno-453114-unsplash.jpg
-title: Learning Piano without a Teacher
+title: Learning Piano Alone
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:
