@@ -2,11 +2,12 @@
 layout: essay
 type: essay
 published: true
-title: Bringing Back the Good Ol Days
+title: Bringing Back the Good Ol' Days
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:
   - UI Frameworks
+  - Semantic UI
 ---
 My phone is four or five years old, but still going strong. The only thing that really stands out as "dated" is the browser. It loads most newer pages a lot slower than other phones, and it heats up when playing music, but it works great loading old-fashioned websites that are just basic HTML with a little CSS styling, like class websites. Because of this, I've grown to prefer the 1990's era of web design to what we have now. Modern webpages look much nicer, and are much more varied and have more capabilities, but they are weighed down by all the extra code.
 
