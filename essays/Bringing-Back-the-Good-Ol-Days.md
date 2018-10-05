@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Bringing Back the Good Ol' Days
+title: Bringing Back the Good Ol Days
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-4
 labels:
