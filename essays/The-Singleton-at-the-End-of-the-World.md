@@ -1,4 +1,4 @@
-—--
+---
 layout: essay
 type: essay
 published: true
@@ -6,7 +6,7 @@ title: The Singleton at the End of the World
 date: 2018-11-29
 labels:
  - Design Patterns
-—--
+---
 It's good to hear somebody else put words to thoughts you yourself have had, perhaps unconsciously, or to ideas you've formulated and put into action at some time in your life. Until now, I hadn't realized a program I wrote last year was actually designed in line with a classic software design pattern (the "Singleton" pattern), but learning this is reassuring. Maybe the way I wrote the program wasn't as thrown-together as I felt it was at the time... allow me to explain.
 
 The program I'm referring to is a simple "zombie apocalypse" game that was intended as a learning experience. The game is only one level, featuring a single player character that runs away from attacking zombies. If the player is touched by a zombie, they die, and the game ends. Additionally, the player can pick up barbed-wire pieces and drop them to slow down the zombies, which happens on contact. That's it. That's the whole game. So how does this fit any kind of classic pattern, you may be asking?
