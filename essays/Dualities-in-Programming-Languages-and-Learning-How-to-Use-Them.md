@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Dualities in Programming Languages and Learning How to Use Them
 date: 2018-08-31
 labels:
