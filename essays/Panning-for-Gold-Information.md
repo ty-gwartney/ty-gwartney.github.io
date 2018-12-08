@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Panning for Gold... Information
 date: 2018-09-07
 labels:
