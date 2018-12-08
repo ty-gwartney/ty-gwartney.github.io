@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/home.png
+image: images/homecopy.png
 title: Recruiting Grounds
 permalink:
 date: 2018-12-09
