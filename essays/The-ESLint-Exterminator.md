@@ -3,7 +3,6 @@ layout: essay
 type: essay
 published: true
 title: The ESLint Exterminator
-# All dates must be YYYY-MM-DD format!
 date: 2018-09-20
 labels:
   - Coding Standards
