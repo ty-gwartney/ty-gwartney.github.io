@@ -70,7 +70,14 @@
   ],
   "education": [
     {
-	"name": "University of Hawai'i at Manoa"
+      "institution": "University of Hawai'i, Honolulu, HI",
+      "area": "Computer Science/Mathematics",
+      "studyType": "B.S.",
+      "startDate": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
     }
   ]
   "references": [
