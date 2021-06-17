@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://ty-gwartney.github.io/images/ty.jpeg",
     "email": "tyg@hawaii.edu",
-    "phone": "575-914-5474",
     "website": "https://ty-gwartney.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and a B.S. in Mathematics in the Department of Mathematics at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
@@ -72,10 +71,10 @@
   "education": [
     {
 	"name": "University of Hawai'i at Manoa",
-	    "major": "Double Major in Computer Science and Mathematics",
-	    "graduated": "2021",
+	"major": "Double Major in Computer Science and Mathematics",
+	"graduated": "2021",
     }
-  ],
+  ]
   "references": [
     {
       "name": "Available upon request",
