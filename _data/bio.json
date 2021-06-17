@@ -69,50 +69,6 @@
       ]
     },
   ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
-      "studyType": "B.S.",
-      "startDate": "2014-01-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Intercultural Institute of Japan, Tokyo, Japan",
-      "area": "Japanese Language",
-      "studyType": "Certificate of Completion",
-      "startDate": "2009",
-      "endDate": "2011",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "New Mexico State University, Las Cruces, NM",
-      "area": "Computer Animation",
-      "studyType": "Unfinished",
-      "startDate": "2005",
-      "endDate": "2009",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-  ],
-  "work": [
-    {
-      "company": "Aloha Outlet",
-      "location": "Honolulu, HI",
-      "description": "Online Retailer",
-      "position": "Shipping Clerk",
-      "website": "http://www.alohaoutlet.com",
-      "startDate": "2011-07-01",
-      "endDate": "Present",
-      "summary": "Fulfillment Department",
-    }
-  ],  
   "references": [
     {
       "name": "Available upon request",
