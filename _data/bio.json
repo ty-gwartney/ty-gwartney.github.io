@@ -71,9 +71,7 @@
   "education": [
     {
 	"name": "University of Hawai'i at Manoa",
-	"major": "Double Major in Computer Science and Mathematics",
-	"graduated": "2021",
-    },
+    }
   ],
   "references": [
     {
